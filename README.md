@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naol
-- 👀 I’m interested in programming and it's related staffs
+- 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning software engineering 
 -
 - 📫 you can reach me using...email:- naolafish2018@gmail.com and telegram-username @Nayyo21
